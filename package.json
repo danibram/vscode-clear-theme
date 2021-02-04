@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "build": "vsce package",
+    "build:publish": "vsce package && vsce build"
+  },
   "publisher": "danibram",
   "contributes": {
     "themes": [

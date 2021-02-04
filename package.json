@@ -1,0 +1,27 @@
+{
+  "name": "theme-clear",
+  "displayName": "Clear theme",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "danibram",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clear (light)",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      },
+      {
+        "label": "Clear (High Contrast)",
+        "uiTheme": "vs",
+        "path": "./themes/light-hc.json"
+      }
+    ]
+  }
+}

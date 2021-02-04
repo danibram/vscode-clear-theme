@@ -2,7 +2,7 @@
   "name": "theme-clear",
   "displayName": "Clear theme",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -13,6 +13,7 @@
     "build": "vsce package",
     "build:publish": "vsce package && vsce build"
   },
+  "icon": "icon.png",
   "publisher": "danibram",
   "contributes": {
     "themes": [

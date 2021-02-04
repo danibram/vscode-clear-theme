@@ -9,9 +9,15 @@ Exported 2 themes:
 
 ## Screenshots
 
-### Comming...
+### Light
+
+![Light Theme](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light.png)
+
+### High Contrast Ligth
+
+![High Contrast Ligth ](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-hc.png)
 
 ## More Information
 
-- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=danibram.theme-flatui).
-- [GitHub repository](https://github.com/danibram/flat-ui-syntax-vscode).
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear).
+- [GitHub repository](https://github.com/danibram/vscode-clear-theme).

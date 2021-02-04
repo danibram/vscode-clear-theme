@@ -2,7 +2,7 @@
   "name": "theme-clear",
   "displayName": "Clear theme",
   "description": "",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -18,12 +18,12 @@
     "themes": [
       {
         "label": "Clear (light)",
-        "uiTheme": "vs",
+        "uiTheme": "hc-black",
         "path": "./themes/light.json"
       },
       {
         "label": "Clear (High Contrast)",
-        "uiTheme": "vs",
+        "uiTheme": "hc-black",
         "path": "./themes/light-hc.json"
       }
     ]

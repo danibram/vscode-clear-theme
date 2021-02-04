@@ -377,9 +377,7 @@
     "titleBar.border": "#d3d7dd",
     "titleBar.inactiveBackground": "#f8f8f8",
     "titleBar.inactiveForeground": "#6a737d",
-    "tree.indentGuidesStroke": "#6a737d",
-    "welcomePage.buttonBackground": "#f8f8f8",
-    "welcomePage.buttonHoverBackground": "#d3d7dd"
+    "tree.indentGuidesStroke": "#6a737d"
   },
   "type": "hc",
   "name": "Flat UI + GUI Superligth"

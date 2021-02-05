@@ -13,9 +13,13 @@ Exported 2 themes:
 
 ![Light Theme](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light.png)
 
+### Ligth Night
+
+![Ligth Night](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-night.png)
+
 ### High Contrast Ligth
 
-![High Contrast Ligth ](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-hc.png)
+![High Contrast Ligth](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-hc.png)
 
 ## Notes
 

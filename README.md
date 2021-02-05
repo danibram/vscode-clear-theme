@@ -17,6 +17,10 @@ Exported 2 themes:
 
 ![High Contrast Ligth ](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-hc.png)
 
+## Notes
+
+Recomended icons theme: [chalice-icon-theme](https://github.com/artlaman/chalice-icon-theme)
+
 ## More Information
 
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear).

@@ -4,6 +4,11 @@ All notable changes to the "clear-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.5]
+
+- Little fixes
+- Started an eyecare version for night (Beta)
+
 ## [1.0.2]
 
 - Added screenshots

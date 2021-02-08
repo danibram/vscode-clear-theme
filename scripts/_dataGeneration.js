@@ -1,6 +1,17 @@
 const image = ["jpeg", "jpg", "gif", "png", "bmp", "ico"];
 const text = ["md", "mdx", "txt"];
-const script = ["html", "htm", "hxml", "svg", "vue", "tsx", "jsx", "php"];
+const script = [
+  "html",
+  "htm",
+  "hxml",
+  "xml",
+  "gpx",
+  "svg",
+  "vue",
+  "tsx",
+  "jsx",
+  "php",
+];
 const shell = ["sh", "zsh", "bash", "fish", "bat", "cmd", "ps1"];
 const style = ["css", "sass", "scss", "less"];
 const lambda = ["re", "rei", "hs", "lhs"];

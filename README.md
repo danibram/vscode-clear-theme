@@ -28,6 +28,10 @@ Exported 3 themes:
 
 ![High Contrast Ligth](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/light-hc.png)
 
+### Icons Preview
+
+![Icons](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/icons.png)
+
 ## Notes
 
 Another recomended icons theme: [chalice-icon-theme](https://github.com/artlaman/chalice-icon-theme)

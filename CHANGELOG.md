@@ -4,6 +4,11 @@ All notable changes to the "clear-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.2]
+
+- Lamda Icon fixes
+- Added yml / gpx file extensions
+
 ## [2.0.1]
 
 - License and badges, little fixes

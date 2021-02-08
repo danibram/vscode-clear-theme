@@ -1,4 +1,6 @@
-# Clear theme
+# Clear theme for [Visual Studio Code](http://code.visualstudio.com)
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/danibram/vscode-clear-theme/blob/master/LICENSE) [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/danibram.theme-clear.svg)](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear) [![Installs](https://vsmarketplacebadge.apphb.com/installs/danibram.theme-clear.svg)](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear)
 
 ## Content
 

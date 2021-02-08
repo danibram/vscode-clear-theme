@@ -1,6 +1,9 @@
-.vscode/**
-samples/**
-.vscode-test/**
+.vscode
+samples
+.vscode-test
 .gitignore
 vsc-extension-quickstart.md
 icon.psd
+node_modules
+src
+icons/Core.ttf

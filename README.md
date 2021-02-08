@@ -2,10 +2,15 @@
 
 ## Content
 
-Exported 2 themes:
+Exported 1 Icon theme:
+
+- Handmaded clean icons =)
+
+Exported 3 themes:
 
 - Light HC: Try to do High Contrast Ligth theme
 - Light : Ligth theme
+- Light Night : Ligth Night theme
 
 ## Screenshots
 
@@ -23,7 +28,7 @@ Exported 2 themes:
 
 ## Notes
 
-Recomended icons theme: [chalice-icon-theme](https://github.com/artlaman/chalice-icon-theme)
+Another recomended icons theme: [chalice-icon-theme](https://github.com/artlaman/chalice-icon-theme)
 
 ## More Information
 

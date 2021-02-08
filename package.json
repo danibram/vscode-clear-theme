@@ -2,7 +2,7 @@
   "name": "theme-clear",
   "displayName": "Clear theme",
   "description": "",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -31,6 +31,13 @@
         "label": "Clear (High Contrast)",
         "uiTheme": "vs",
         "path": "./themes/light-hc.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "label": "Clear Icons",
+        "id": "Clear Icons",
+        "path": "./icons/icon-theme.json"
       }
     ]
   },

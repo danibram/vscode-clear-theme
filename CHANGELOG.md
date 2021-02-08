@@ -4,6 +4,10 @@ All notable changes to the "clear-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.1]
+
+- License and badges, little fixes
+
 ## [2.0.0]
 
 - Added Icons!!

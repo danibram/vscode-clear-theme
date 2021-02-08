@@ -30,7 +30,7 @@ Exported 3 themes:
 
 ### Icons Preview
 
-![Icons](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/icons.png)
+![Icons](https://raw.githubusercontent.com/danibram/vscode-clear-theme/master/Icons.png)
 
 ## Notes
 

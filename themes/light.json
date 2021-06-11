@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "tokenColors": [
     {
       "scope": [
@@ -70,7 +71,8 @@
         "string.regexp",
         "string.unquoted",
         "string.template.ts",
-        "string.template.js"
+        "string.template.js",
+        "string.double"
       ],
       "settings": {
         "fontStyle": "regular",
@@ -102,7 +104,8 @@
         "punctuation.definition.string.end",
         "punctuation.separator",
         "punctuation.terminator",
-        "punctuation.definition"
+        "punctuation.definition",
+        "meta.brace"
       ],
       "settings": {
         "fontStyle": "bold",
@@ -163,7 +166,7 @@
     {
       "name": "ReasonML property",
       "scope": [
-        "source.reason string.regexp",
+        "source.reason constant.language.unit",
         "source.reason entity.name.function"
       ],
       "settings": {
@@ -172,7 +175,14 @@
       }
     },
     {
-      "name": "ReasonML property",
+      "name": "types not green",
+      "scope": ["source.reason string.regexp"],
+      "settings": {
+        "foreground": "#000"
+      }
+    },
+    {
+      "name": "only this green",
       "scope": ["source.reason string.double string.regexp"],
       "settings": {
         "foreground": "#22863A"
@@ -183,7 +193,7 @@
     {
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#9d0006"
+        "foreground": "#af3a03"
       }
     },
     {
@@ -221,6 +231,8 @@
         "fontStyle": "bold"
       }
     },
+
+    // JS OVERRRIDE
 
     {
       "scope": [

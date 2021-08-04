@@ -53,6 +53,7 @@ const brackets = [
   "pug",
   "scala",
   "json",
+  "hjson",
   "snap",
 ];
 

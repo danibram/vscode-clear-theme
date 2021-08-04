@@ -75,7 +75,7 @@
         "string.double"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "",
         "foreground": "#22863A"
       }
     },
@@ -229,6 +229,26 @@
       "settings": {
         "foreground": "#427b58",
         "fontStyle": "bold"
+      }
+    },
+
+    // HJSON ----------------------------------------
+    {
+      "scope": [
+        "string.quoted.none.hjson",
+        "string.quoted.multiline.hjson",
+        "constant.language.hjson"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#22863A"
+      }
+    },
+    {
+      "scope": ["support.type.property-name.hjson"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#000"
       }
     },
 

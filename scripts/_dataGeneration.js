@@ -14,7 +14,7 @@ const script = [
 ];
 const shell = ["sh", "zsh", "bash", "fish", "bat", "cmd", "ps1"];
 const style = ["css", "sass", "scss", "less"];
-const lambda = ["re", "rei", "hs", "lhs"];
+const lambda = ["res", "resi", "re", "rei", "hs", "lhs"];
 const lock = ["lock", "sock"];
 const textStruct = ["yaml", "yml", "conf"];
 const curly = [

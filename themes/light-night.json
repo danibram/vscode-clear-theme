@@ -38,6 +38,7 @@
     },
     {
       "scope": [
+        "keyword",
         "keyword.control",
         "keyword.control.conditional",
         "keyword.control.import",
@@ -63,17 +64,7 @@
       }
     },
     {
-      "scope": [
-        "string.quoted.double",
-        "string.quoted.other",
-        "string.quoted.single",
-        "string.quoted.triple",
-        "string.regexp",
-        "string.unquoted",
-        "string.template.ts",
-        "string.template.js",
-        "string.double"
-      ],
+      "scope": ["string"],
       "settings": {
         "fontStyle": "",
         "foreground": "#22863A"
@@ -99,17 +90,18 @@
     },
     {
       "scope": [
-        "markup.underline",
+        "punctuation",
         "punctuation.definition.string.begin",
         "punctuation.definition.string.end",
         "punctuation.separator",
         "punctuation.terminator",
         "punctuation.definition",
+        "markup.underline",
         "meta.brace"
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#333"
+        "foreground": "#000"
       }
     },
     {
@@ -148,27 +140,25 @@
     },
     {
       "name": "const",
-      "scope": ["variable.other.constant", "variable.other.readwrite"],
+      "scope": [
+        "constant",
+        "variable.other.constant",
+        "variable.other.readwrite"
+      ],
       "settings": {
-        "foreground": "#af3a03"
+        "foreground": "#22863A"
       }
     },
     {
       "name": "ReasonML property",
-      "scope": [
-        "source.reason support.property-value",
-        "source.reason entity.name.filename"
-      ],
+      "scope": ["support.property-value", "entity.name.filename"],
       "settings": {
-        "foreground": "#af3a03"
+        "foreground": "#22863A"
       }
     },
     {
       "name": "ReasonML property",
-      "scope": [
-        "source.reason constant.language.unit",
-        "source.reason entity.name.function"
-      ],
+      "scope": ["constant.language.unit", "entity.name.function"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#000"
@@ -176,14 +166,14 @@
     },
     {
       "name": "types not green",
-      "scope": ["source.reason string.regexp"],
+      "scope": ["string.regexp"],
       "settings": {
         "foreground": "#000"
       }
     },
     {
       "name": "only this green",
-      "scope": ["source.reason string.double string.regexp"],
+      "scope": ["string.double string.regexp"],
       "settings": {
         "foreground": "#22863A"
       }
@@ -193,19 +183,19 @@
     {
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#af3a03"
+        "foreground": "#22863A"
       }
     },
     {
       "scope": "punctuation.definition.logical-expression",
       "settings": {
-        "foreground": "#af3a03"
+        "foreground": "#22863A"
       }
     },
     {
       "scope": "string.inperpolated.dollar.shell",
       "settings": {
-        "foreground": "#af3a03"
+        "foreground": "#22863A"
       }
     },
     {
@@ -257,7 +247,8 @@
     {
       "scope": [
         "source.ts variable.other.constant",
-        "source.js variable.other.constant"
+        "source.js variable.other.constant",
+        "support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#000"

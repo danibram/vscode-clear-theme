@@ -1,10 +1,10 @@
 # Clear theme for [Visual Studio Code](http://code.visualstudio.com)
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/version-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/rating-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/installs-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/downloads-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Downloads" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/version-short/danibram.theme-clear.png?style=for-the-badge&colorA=333&colorB=22863A&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/rating-short/danibram.theme-clear.png?style=for-the-badge&colorA=333&colorB=22863A&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/installs-short/danibram.theme-clear.png?style=for-the-badge&colorA=333&colorB=22863A&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/downloads-short/danibram.theme-clear.png?style=for-the-badge&colorA=333&colorB=22863A&label=Downloads" alt="Downloads"></a>
 </p>
 
 ## Content

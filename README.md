@@ -1,6 +1,11 @@
 # Clear theme for [Visual Studio Code](http://code.visualstudio.com)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/danibram/vscode-clear-theme/blob/master/LICENSE) [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/danibram.theme-clear.svg)](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear) [![Installs](https://vsmarketplacebadge.apphb.com/installs/danibram.theme-clear.svg)](https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear)
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/version-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/rating-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/installs-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=danibram.theme-clear"><img src="https://vsmarketplacebadges.dev/downloads-short/danibram.theme-clear.svg?style=for-the-badge&colorA=333&colorB=22863A&label=Downloads" alt="Downloads"></a>
+</p>
 
 ## Content
 

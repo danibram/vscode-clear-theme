@@ -1,13 +1,20 @@
 {
   "name": "theme-clear",
   "displayName": "Clear theme",
-  "description": "",
+  "description": "Minimalistic clear theme.",
   "version": "2.0.5",
   "engines": {
     "vscode": "^1.52.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "light",
+    "icon-theme",
+    "minimal"
   ],
   "scripts": {
     "build": "vsce package",
@@ -50,5 +57,8 @@
   },
   "dependencies": {
     "vsce": "^2.15.0"
-  }
+  },
+  "extensionKind": [
+    "ui"
+  ]
 }

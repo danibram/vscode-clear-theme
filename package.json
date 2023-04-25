@@ -2,7 +2,7 @@
   "name": "theme-clear",
   "displayName": "Clear theme",
   "description": "",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -47,5 +47,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/danibram/vscode-clear-theme.git"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

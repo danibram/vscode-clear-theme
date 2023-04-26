@@ -2,7 +2,7 @@
   "name": "theme-clear",
   "displayName": "Clear theme",
   "description": "Minimalistic clear theme.",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "engines": {
     "vscode": "^1.52.0"
   },

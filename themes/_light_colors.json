@@ -1,6 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "light_ui",
+
+  "include": "./_light_tokens.json",
+
   "colors": {
     "activityBar.activeBorder": "#000",
     "activityBar.background": "#f8f8f8",

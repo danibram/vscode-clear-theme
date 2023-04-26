@@ -108,7 +108,7 @@
     {
       "scope": ["meta.link", "meta.paragraph", "meta.property-value"],
       "settings": {
-        "foreground": "#333"
+        "foreground": "#22863A"
       }
     },
     {
@@ -141,11 +141,7 @@
     },
     {
       "name": "const",
-      "scope": [
-        "constant",
-        "variable.other.constant",
-        "variable.other.readwrite"
-      ],
+      "scope": ["constant"],
       "settings": {
         "foreground": "#22863A"
       }
@@ -263,7 +259,5 @@
     "stringLiteral": "#076678",
     "customLiteral": "#22863A",
     "numberLiteral": "#427b58"
-  },
-  "type": "hc",
-  "name": "Flat UI + GUI Superligth"
+  }
 }

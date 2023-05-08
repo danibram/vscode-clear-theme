@@ -1,8 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-
   "include": "./_light_tokens.json",
-
   "colors": {
     "activityBar.activeBorder": "#000",
     "activityBar.background": "#f8f8f8",
@@ -43,13 +41,14 @@
     "editorGutter.addedBackground": "#2ea043",
     "editorGutter.deletedBackground": "#f85149",
     "editorGutter.modifiedBackground": "#000",
-    "editorIndentGuide.background": "#D3D3D3",
     "editorInlayHint.background": "#8b949e33",
     "editorInlayHint.foreground": "#8b949e",
     "editorInlayHint.typeBackground": "#8b949e33",
     "editorInlayHint.typeForeground": "#8b949e",
-    "editorLineNumber.activeForeground": "#171184",
-    "editorLineNumber.foreground": "#6e7681",
+    "editorIndentGuide.activeBackground": "#000",
+    "editorIndentGuide.background": "#eee",
+    "editorLineNumber.activeForeground": "#24292e",
+    "editorLineNumber.foreground": "#1b1f234d",
     "editorOverviewRuler.border": "#0000001a",
     "editorSuggestWidget.background": "#f8f8f8",
     "editorWidget.background": "#ffffff",

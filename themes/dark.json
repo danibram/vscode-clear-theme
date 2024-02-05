@@ -1,0 +1,34 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./_dark_colors.json",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    // "newOperator": "#22863A",
+    // "stringLiteral": "#076678",
+    // "customLiteral": "#22863A",
+    // "numberLiteral": "#427b58"
+    "namespace": "#ffffff",
+    "type": "#ffffff",
+    "type.defaultLibrary": "#ffffff",
+    "struct": "#ffffff",
+    "class": "#ffffff",
+    "class.defaultLibrary": "#ffffff",
+    "interface": "#ffffff",
+    "enum": "#ffffff",
+    "function": "#ffffff",
+    "function.defaultLibrary": "#ffffff",
+    "method": "#ffffff",
+    "macro": "#ffffff",
+    "variable": "#ffffff",
+    "variable.readonly": "#ffffff",
+    "variable.readonly.defaultLibrary": "#ffffff",
+    "parameter": "#ffffff",
+    "property": "#ffffff",
+    "property.readonly": "#ffffff",
+    "enumMember": {
+      "fontStyle": "bold",
+      "foreground": "#ffffff"
+    },
+    "event": "#ffffff"
+  }
+}
